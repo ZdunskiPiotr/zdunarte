@@ -1,0 +1,27 @@
+.homepage__header {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.homepage__header-medium {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.homepage__text-wrapper {
+  padding: 20px;
+}
+
+.homepage__text {
+  padding: 15px;
+}
+
+.aboutme__text {
+  font-size: 21px;
+  background: rgb(5, 57, 24);
+  background: radial-gradient(
+    circle,
+    rgba(5, 57, 24, 0.5) 0%,
+    rgba(0, 0, 0, 0.1) 67%
+  );
+}

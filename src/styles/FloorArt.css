@@ -1,0 +1,44 @@
+.floorArt {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* flex-wrap: wrap; */
+  align-items: center;
+  flex-basis: 30%;
+  font-family: "Cormorant SC", sans-serif;
+}
+
+.floorArt span {
+  color: white;
+}
+
+a:-webkit-any-link {
+  text-decoration: none;
+  /* color: white; */
+}
+
+.floorArt__tables {
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  flex-direction: column;
+  /* border: 1px solid white; */
+  /* width: 33vw; */
+  height: 220px;
+  margin-bottom: 20px;
+}
+
+/* .tables img {
+  height: 100%;
+} */
+
+.floorArt__chairs {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  /* flex-basis: 33vw; */
+  width: 33vw;
+  max-width: 260px;
+  height: 220px;
+}

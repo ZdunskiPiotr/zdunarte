@@ -1,0 +1,44 @@
+.history-wrap {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* flex-wrap: wrap; */
+  align-items: center;
+  flex-basis: 90%;
+  font-family: "Cormorant SC", sans-serif;
+}
+
+.history__header {
+  font-size: 24px;
+  font-weight: bold;
+  padding: 15px;
+}
+
+.history__text {
+  padding: 15px;
+}
+
+.history__archive {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  /* border: 1px solid white; */
+  /* width: 33vw; */
+  /* height: 220px; */
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.history__archive-span {
+  padding: 10px;
+  font-size: 22px;
+  /* color: #a59885; */
+  color: #c5baa9;
+}
+
+@media (max-width: 720px) {
+  .history__archive-img {
+    width: 80%;
+  }
+}

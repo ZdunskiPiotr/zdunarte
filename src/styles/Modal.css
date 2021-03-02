@@ -1,0 +1,157 @@
+.modal-wrap {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  min-height: 100vh;
+  font-size: 22px;
+  background-color: black;
+  color: #a59885;
+}
+
+.modal {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 100%;
+  /* background-color: black; */
+  /* border-radius: 20px; */
+  border: 2px solid black;
+}
+
+.modal__top {
+  flex-basis: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  /* background-color: rgba(10, 170, 135, 0.2); */
+}
+
+.modal__middle {
+  display: flex;
+  justify-content: center;
+
+  /* flex-wrap: wrap; */
+  flex-basis: 70%;
+  flex-direction: column;
+}
+
+.modal__big-image {
+  min-height: 360px;
+
+  padding-top: 5px;
+  background: radial-gradient(
+    circle,
+    rgba(5, 57, 24, 0.5) 0%,
+    rgba(0, 0, 0, 0.1) 67%
+  );
+}
+
+.modal__big-image--img {
+  max-width: 98vw;
+  max-height: 430px;
+}
+
+.modal__small-images {
+  display: flex;
+  justify-content: center;
+}
+
+.modal__small-image {
+  padding-top: 5px;
+}
+
+.modal__small-image--img {
+  height: 50px;
+  margin: 0 5px 0 5px;
+}
+
+.modal__small-image--active {
+  border: 1px solid white;
+}
+
+.modal__bottom {
+  flex-basis: 10%;
+}
+
+.modal__bottom-detailsStyle {
+  color: rgb(84, 112, 77);
+}
+
+/* .product.modal img {
+  padding: 10px;
+  max-height: 430px;
+  width: 80%;
+} */
+
+.hide {
+  position: absolute;
+  right: 15px;
+  top: 65px;
+  width: 40px;
+  height: 40px;
+  /* text-align: center;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 50%; */
+  cursor: pointer;
+  font-size: 28px;
+  background-color: black;
+}
+
+.productSize-wrapper {
+  padding-bottom: 4px;
+}
+.productTHeight-wrapper {
+  padding: 4px;
+}
+
+.productPrice-wrapper {
+  padding: 4px;
+}
+
+.price {
+  color: rgb(130, 189, 127);
+}
+
+@media (max-width: 640px) {
+  .modal__big-image {
+    max-width: 100%;
+  }
+}
+
+@media (max-height: 360px) {
+  .modal__big-image--img {
+    max-height: 200px;
+  }
+}
+
+@media (max-height: 568px) {
+  .modal__big-image--img {
+    max-height: 250px;
+  }
+}
+
+@media (min-width: 640px) {
+  .hide {
+    right: 25px;
+  }
+}
+
+@media (max-height: 839px) {
+  .modal__big-image--img {
+    max-width: 90%;
+    max-height: 350px;
+  }
+}
+
+@media (min-height: 840px) {
+  .modal__big-image--img {
+    max-height: 624px;
+  }
+}

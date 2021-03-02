@@ -1,0 +1,63 @@
+.contact-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.contact__text-wrapper {
+  padding: 15px;
+}
+
+.contact__header {
+  font-family: "Cormorant SC", sans-serif;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.contact__text {
+  text-align: center;
+  font-weight: 500;
+  padding: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+select,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.form {
+  width: 70%;
+  margin: 30px;
+}
+
+.form__safe {
+  display: none;
+}
+
+.hideBTN {
+  display: none;
+}
+
+input[type="submit"]:hover {
+  background-color: #297c2d;
+}

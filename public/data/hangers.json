@@ -1,0 +1,47 @@
+[
+  {
+    "type": "hanger",
+    "name": "Acacian grove",
+    "pictureURL": "../images/hangers/h5.jpg",
+    "bigPictureURL1": "../images/hangers/big/big5.jpg",
+    "price": "200 GBP",
+    "size": "17 x 94 [cm]",
+    "details": "Acacian wood with brown epoxy resin. Water effect"
+  },
+  {
+    "type": "hanger",
+    "name": "Archangel Hanger",
+    "pictureURL": "../images/hangers/h3.jpg",
+    "bigPictureURL1": "../images/hangers/big/big3.jpg",
+    "price": "90 GBP",
+    "size": "33 x 15 [cm]",
+    "details": "Burned acacian wood with epoxy resin. Colors of heaven."
+  },
+  {
+    "type": "hanger",
+    "name": "Hell of a Hanger",
+    "pictureURL": "../images/hangers/h1.jpg",
+    "bigPictureURL1": "../images/hangers/big/big1.jpg",
+    "price": "90 GBP",
+    "size": "33 x 15 [cm]",
+    "details": "Burned acacian wood with red epoxy resin. Straight from hell."
+  },
+  {
+    "type": "hanger",
+    "name": "Natural Hanger",
+    "pictureURL": "../images/hangers/h4.jpg",
+    "bigPictureURL1": "../images/hangers/big/big4.jpg",
+    "price": "85 GBP",
+    "size": "33 x 15 [cm]",
+    "details": "Acacian wood with brown epoxy resin and water effect."
+  },
+  {
+    "type": "hanger",
+    "name": "Coffee Hanger",
+    "pictureURL": "../images/hangers/h2.jpg",
+    "bigPictureURL1": "../images/hangers/big/big2.jpg",
+    "price": "80 GBP",
+    "size": "33 x 15 [cm]",
+    "details": "Acacian wood with black and white epoxy resin with a twist."
+  }
+]
