@@ -1,0 +1,3 @@
+Robimy tak, żeby duży obraz miał 800 px wysokośći
+
+Mały obraz min 320px szerokości, a najlepiej dokładnie 320px

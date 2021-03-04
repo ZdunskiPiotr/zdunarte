@@ -1,0 +1,43 @@
+[
+  {
+    "type": "clock",
+    "name": "The Surfer",
+    "pictureURL": "../images/clocks/1.jpg",
+    "bigPictureURL1": "../images/clocks/big/big1.jpg",
+    "gifURL": "../images/clocks/big/gifs/1.gif",
+    "price": "80 GBP",
+    "size": "68 x 24 x 4 [cm]",
+    "details": "Clock with queiet mechanism, made of poplar wood with a bit of resin."
+  },
+  {
+    "type": "clock",
+    "name": "The ghost",
+    "pictureURL": "../images/clocks/2.jpg",
+    "bigPictureURL1": "../images/clocks/big/big2.jpg",
+    "gifURL": "../images/clocks/big/gifs/2.gif",
+    "price": "70 GBP",
+    "size": "54 x 21 x 4.5 [cm]",
+    "details": "Cute poplar wood with a bit of resin in shape of soul."
+  },
+  {
+    "type": "clock",
+    "name": "The Horse imprint",
+    "pictureURL": "../images/clocks/3.jpg",
+    "bigPictureURL1": "../images/clocks/big/big3.jpg",
+    "bigPictureURL2": "../images/clocks/big/big3p2.jpg",
+    "gifURL": "../images/clocks/big/gifs/3.gif",
+    "price": "85 GBP",
+    "size": "134 x 31 x 3 [cm]",
+    "details": "Pretty large poplar wood with a bit of resin. Colonels as hour marks."
+  },
+  {
+    "type": "clock",
+    "name": "The Hercules's mace",
+    "pictureURL": "../images/clocks/4.jpg",
+    "bigPictureURL1": "../images/clocks/big/big4.jpg",
+    "gifURL": "../images/clocks/big/gifs/4.gif",
+    "price": "70 GBP",
+    "size": "78 x 28 x 5 [cm]",
+    "details": "Shiny poplar wood with a bit of resin in shape of Hercules's mace"
+  }
+]

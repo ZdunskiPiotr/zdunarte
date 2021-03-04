@@ -1,0 +1,34 @@
+[
+  {
+    "type": "chair",
+    "name": "The Twins",
+    "pictureURL": "../images/chairs/1.JPG",
+    "bigPictureURL1": "../images/chairs/big/1.JPG",
+    "price": "180 GBP",
+    "size": "30 x 30 x 2.5 [cm]",
+    "totalHeight": "72 cm",
+    "details": "Unique spruce chair connected by resin. "
+  },
+  {
+    "type": "chair",
+    "name": "The Black Hole",
+    "pictureURL": "../images/chairs/3.JPG",
+    "bigPictureURL1": "../images/chairs/big/3.JPG",
+    "bigPictureURL2": "../images/chairs/big/3p2.JPG",
+    "price": "200 GBP",
+    "size": "30 x 30 x 2.5 [cm]",
+    "totalHeight": "74,5 cm",
+    "details": "Oak wood with black epoxy resin."
+  },
+  {
+    "type": "chair",
+    "name": "The Black Hole 2",
+    "pictureURL": "../images/chairs/4.JPG",
+    "bigPictureURL1": "../images/chairs/big/4.JPG",
+    "bigPictureURL2": "../images/chairs/big/4p2.JPG",
+    "price": "200 GBP",
+    "size": "30 x 30 x 2.5 [cm]",
+    "totalHeight": "74,5 cm",
+    "details": "Oak wood with black epoxy resin."
+  }
+]

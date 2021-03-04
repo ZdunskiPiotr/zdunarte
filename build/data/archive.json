@@ -1,0 +1,77 @@
+[
+   {
+     "type": "archive",
+     "name": "Taste of the ocean",
+     "pictureURL": "../images/tables/t1.jpg",
+     "bigPictureURL1": "../images/tables/big/big1.jpg",
+     "bigPictureURL2": "../images/tables/big/big1p2.jpg",
+     "bigPictureURL3": "../images/tables/big/big1p3.jpg",
+     "bigPictureURL4": "../images/tables/big/big1p4.jpg",
+     "price": "1150 GBP",
+     "size": "116 x 56 x 4.5 [cm]",
+     "totalHeight": "72 cm",
+     "details": "Beautiful beech table with intense blue resin river"
+   },
+   {
+     "type": "archive",
+     "name": "The animal",
+     "pictureURL": "../images/archive/a5.jpg",
+     "bigPictureURL1": "../images/archive/big/b5.jpg",
+     "bigPictureURL2": "../images/archive/big/b5p2.jpg",
+     "price": "215 GBP",
+     "size": "18 x 62 cm",
+     "details": "Hanger for a hunter. Acacian wood with roebuck`s antlers sunked in epoxy resin with water effect."
+   },
+   {
+     "type": "archive",
+     "name": "The Conductor",
+     "pictureURL": "../images/archive/a4.jpg",
+     "bigPictureURL1": "../images/archive/big/b4.jpg",
+     "price": "120 GBP",
+     "size": "32 x 28 x 5 [cm]",
+     "totalHeight": "40 cm",
+     "details": "Nice slice of pine with a bit of resin"
+   },
+    {
+      "type": "archive",
+      "name": "The big one",
+      "pictureURL": "../images/archive/a1.jpg",
+      "bigPictureURL1": "../images/archive/big/b1.jpg",
+      "bigPictureURL2": "../images/archive/big/b1p2.jpg",
+      "price": "200 GBP",
+      "size": "17 x 94 cm",
+      "details": "Corridor epoxy resin hanger with acacian slices for the guests"
+    },
+    {
+        "type": "archive",
+        "name": "Edisons dream",
+        "pictureURL": "../images/archive/a2.jpg",
+        "bigPictureURL1": "../images/archive/big/b2.jpg",
+        "bigPictureURL2": "../images/archive/big/b2p2.jpg",
+        "price": "55 GBP",
+        "size": "9 x 10 x 13 [cm]",
+        "details": "Oak and nut with a bit of black epoxy resin"
+      },
+      {
+        "type": "archive",
+        "name": "Pocahontaz",
+        "pictureURL": "../images/archive/a6.jpg",
+        "bigPictureURL1": "../images/archive/big/b6.jpg",
+        "bigPictureURL2": "../images/archive/big/b6p2.jpg",
+        "price": "65 GBP",
+        "size": "14 x 20 [cm]",
+        "details": "Small safe hanger for a child"
+      },
+      {
+        "type": "hidden",
+        "name": "Blue river",
+        "pictureURL": "../images/archive/a3.jpg",
+        "bigPictureURL1": "../images/archive/big/b3.jpg",
+        "price": "140 GBP",
+        "size": "30 x 30 x 2,5 [cm]",
+        "totalHeight": "50 cm",
+        "details": "Spruce little table with epoxy river"
+      }
+  ]
+  
+

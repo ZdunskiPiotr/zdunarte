@@ -1,0 +1,15 @@
+[
+    {
+    "type": "table",
+    "name": "Live edge Oak",
+    "pictureURL": "../images/tables/t2.jpg",
+    "bigPictureURL1": "../images/tables/big/big2.jpeg",
+    "bigPictureURL2": "../images/tables/big/big2p2.jpeg",
+    "bigPictureURL3": "../images/tables/big/big2p3.jpeg",
+    "bigPictureURL4": "../images/tables/big/big2p4.jpeg",
+    "price": "1650 GBP",
+    "size": "200 x 60 x 4 [cm]",
+    "totalHeight": "74 cm",
+    "details": "Handmade big oak live edge dining table with dark resin hole"
+  }
+]

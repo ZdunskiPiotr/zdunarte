@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zdunarte/static/css/main.95ae8984.chunk.css",
+    "main.js": "/zdunarte/static/js/main.fe506dc3.chunk.js",
+    "main.js.map": "/zdunarte/static/js/main.fe506dc3.chunk.js.map",
+    "runtime-main.js": "/zdunarte/static/js/runtime-main.fd58e1ed.js",
+    "runtime-main.js.map": "/zdunarte/static/js/runtime-main.fd58e1ed.js.map",
+    "static/js/2.e7193add.chunk.js": "/zdunarte/static/js/2.e7193add.chunk.js",
+    "static/js/2.e7193add.chunk.js.map": "/zdunarte/static/js/2.e7193add.chunk.js.map",
+    "index.html": "/zdunarte/index.html",
+    "static/css/main.95ae8984.chunk.css.map": "/zdunarte/static/css/main.95ae8984.chunk.css.map",
+    "static/js/2.e7193add.chunk.js.LICENSE.txt": "/zdunarte/static/js/2.e7193add.chunk.js.LICENSE.txt",
+    "static/media/error.f2cbd6a2.png": "/zdunarte/static/media/error.f2cbd6a2.png",
+    "static/media/Navigation.css": "/zdunarte/static/media/panel.ec890c60.jpg",
+    "static/media/App.css": "/zdunarte/static/media/start.3714576f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd58e1ed.js",
+    "static/js/2.e7193add.chunk.js",
+    "static/css/main.95ae8984.chunk.css",
+    "static/js/main.fe506dc3.chunk.js"
+  ]
+}
